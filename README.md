@@ -1,6 +1,6 @@
 ![Elo Merchant Category Recommendation](https://github.com/adrofa/elo-kaggle-comp/blob/master/header.png)
 # Elo Merchant Category Recommendation
-This folder contains three Jupyter notebooks prepared as a result of participation in [Kaggle competition](https://www.kaggle.com/c/elo-merchant-category-recommendation) 'Elo Merchant Category Recommendation', which was organized by **Brazil retail banking organization**, participants had to solve regression task, using data about more than **30 million transactions** performed by the bank's clients.
+This repository contains 3 Jupyter notebooks prepared as a result of participation in [Kaggle competition](https://www.kaggle.com/c/elo-merchant-category-recommendation) 'Elo Merchant Category Recommendation', which was organized by **Brazil retail banking organization**, participants had to solve regression task, using data about more than **30 million transactions** performed by the bank's clients.
  
 ## Results
 My final solution ranked top 9% at the private leaderboard and earned me a bronze medal. The solution can be viewed in the following Jupyter notebooks.
